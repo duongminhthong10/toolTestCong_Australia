@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DropDownBox.qml</file>
+        <file>InputText.qml</file>
+    </qresource>
+</RCC>
